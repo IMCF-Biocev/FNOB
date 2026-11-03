@@ -124,7 +124,6 @@ If you prefer using Conda, follow these instructions.
 
 ## Useful links
 
-- **Course repository:** [GitHub repository](<repository-url>)
 - **Demo datasets:** [Zenodo – FNOB 2026](https://doi.org/10.5281/zenodo.23809808)
 - **uv installation:** [Official documentation](https://docs.astral.sh/uv/getting-started/installation/)
 - **Miniforge installation:** [GitHub – Miniforge](https://github.com/conda-forge/miniforge)
