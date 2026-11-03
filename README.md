@@ -109,7 +109,7 @@ If you prefer using Conda, follow these instructions.
 
   - Activate the environment:
     ```bash
-    conda activate flopa-course
+    conda activate flopa-demo
     ```
 
 #### Step 6. Start napari
