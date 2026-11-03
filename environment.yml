@@ -1,0 +1,9 @@
+name: flopa-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - "napari-flopa[all]"
+      - napari-bioformats
